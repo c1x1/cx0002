@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## 我的朋友们
 
-You can use the [editor on GitHub](https://github.com/c1x1/cx0002/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+这是建立在github上的一个网站
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
